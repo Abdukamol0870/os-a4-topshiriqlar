@@ -135,3 +135,4 @@ PR avtomatik yangilanadi.
 | # | F.I.Sh | Guruh | Mavzu | Repo |
 |---|--------|-------|-------|------|
 | 0 | Bekimmetova Durdona | O'qituvchi | Namuna | https://github.com/Bekimmetova |
+| 1 | Xurramov Behruz | SRM002-2 | UzKey | https://github.com/BehruzXurramov/UzKey |

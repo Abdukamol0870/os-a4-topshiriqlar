@@ -136,3 +136,4 @@ PR avtomatik yangilanadi.
 |---|--------|-------|-------|------|
 | 0 | Bekimmetova Durdona | O'qituvchi | Namuna | https://github.com/Bekimmetova |
 | 1 | Xurramov Behruz | SRM002-2 | UzKey | https://github.com/BehruzXurramov/UzKey |
+| 2 | Homidov Abdukamol | SRM002-2 | TURBO JANG! — 3D poyga va parkovka o'yini| https://github.com/Abdukamol0870/os-a4-homidov |
